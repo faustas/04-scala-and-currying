@@ -1,2 +1,8 @@
-# 04-scala-and-currying
-This repository contains code examples for a specific teaching session. Read the detailed description from the README.
+# 04 - Currying in scala
+
+This repository contains code examples for the respective teaching session. It is a specific context that depends on the topic of the teaching.
+
+This repository contains code for:
+- what is currying
+- how does it work
+
